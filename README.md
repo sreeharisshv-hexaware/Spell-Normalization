@@ -10,3 +10,4 @@ To check the program:
 1) Navigate to `../src/jarowinkler` directory
 2) Run `go build`
 3) Run `jarowinkler.exe`
+
